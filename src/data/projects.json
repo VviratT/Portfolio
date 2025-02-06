@@ -15,7 +15,7 @@
   },
   {
     "title":"Portfolio",
-    "imageSrc":"projects/project2.png",
+    "imageSrc":"projects/project2.jpg",
     "description":"This is a portfolio website.",
     "skills":["HTML","CSS","JavaScript"],
     "source":"https://github.com/VviratT/Portfolio"
