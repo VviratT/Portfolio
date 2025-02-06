@@ -8,14 +8,14 @@
   },
   {
     "title":"Amazon Clone",
-    "imageSrc":"projects/project2.jpg",
+    "imageSrc":"projects/project2.png",
     "description":"This is a project which is amazon clone.",
     "skills":["HTML","CSS"],
     "source":"https://github.com/VviratT/Amazon-Clone"
   },
   {
     "title":"Portfolio",
-    "imageSrc":"projects/project3.png",
+    "imageSrc":"projects/project3.jpg",
     "description":"This is a portfolio website.",
     "skills":["HTML","CSS","JavaScript"],
     "source":"https://github.com/VviratT/Portfolio"
